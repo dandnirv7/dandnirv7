@@ -1,17 +1,18 @@
-![👋 Hi, my name is Dandi Nirpana Nahin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, I'm Dandi](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# 👋 Hi, my name is Dandi Nirpana Nahin
+# 👋 Hi, I'm Dandi  
+⚡ Front-End Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner  
 
-### **🚀 Passionate front-end developer with full-stack experience, focused on creating scalable web apps and optimizing user experience.**
+### **💡 Passionate front-end developer with full-stack experience, focused on creating scalable web apps and optimizing user experience.**
 
 ### **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dandnirv)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandnirv7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandnirv)
 
-🛜 **Latest project**: A movie streaming platform built with React and TypeScript - [Check it out](https://night-movie-ten.vercel.app/)  
-👨🏼‍🎓 **Studying Computer Science (Bachelor's Degree)** at Bani Saleh University  
-🌱 **Currently exploring**: **📚 Next.js, Prisma, Supabase, NestJS, PostgreSQL**  
+🛠️ **Latest project**: A movie streaming platform built with React and TypeScript - [Check it out](https://night-movie-ten.vercel.app/)  
+🎓 **Studying Computer Science (Bachelor's Degree)** at Bani Saleh University  
+🧠 **Currently exploring**: **📚 Next.js, Prisma, Supabase, NestJS, PostgreSQL**  
 💬 **Feel free to ask about**: **💡 JavaScript, React, Vue.js, Nuxt.js, Node.js, and RESTful APIs**  
 🔗 **Portfolio**: [Explore here](https://dandnirv-portfolio.vercel.app/)
 
