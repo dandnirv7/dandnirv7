@@ -11,9 +11,9 @@
 
 🛜 **Latest project**: A movie streaming platform built with React and TypeScript - [Check it out](https://night-movie-ten.vercel.app/)  
 👨🏼‍🎓 **Studying Computer Science (Bachelor's Degree)** at Bani Saleh University  
-🌱 **Currently exploring**: **📚 Next.js, Prisma, PostgreSQL, Go**  
+🌱 **Currently exploring**: **📚 Next.js, Prisma, Supabase, NestJS, PostgreSQL**  
 💬 **Feel free to ask about**: **💡 JavaScript, React, Vue.js, Nuxt.js, Node.js, and RESTful APIs**  
-🔗 **Portfolio**: [Explore here](https://bit.ly/dandnirv-portfolio)
+🔗 **Portfolio**: [Explore here](https://dandnirv-portfolio.vercel.app/)
 
 # 💻 **Tech Stack**:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white)
